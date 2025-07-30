@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://product-list-with-cart-main-12xl0yqo6-tiwipaddlers-projects.vercel.app/)
+- Live Site URL: [Vercel site URL here](https://product-list-with-cart-main-12xl0yqo6-tiwipaddlers-projects.vercel.app/)
 
 
 ### What I learned
@@ -45,6 +45,6 @@ To fix this, I learned to **increase the specificity** of the CSS rule so that i
 
 ## Author
 
-- Twitter - [@yourusername](https://www.twitter.com/tiwipaddler)
+- Twitter - [@tiwipaddler](https://www.twitter.com/tiwipaddler)
 
 
